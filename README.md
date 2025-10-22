@@ -23,6 +23,7 @@ To recommend potential **countries and cities** for new restaurant openings by a
 ---
 
 ## Project Structure
+- **Zomato_Data.xlsx** → Cleaned and structured dataset used for analysis  
 - **Objective Questions:** All solutions integrated into a single sheet using formulas and pivot tables  
 - **Subjective Questions:** Each question analyzed in a **separate sheet** for focused exploration  
 - **Dashboard Sheet:** Consolidated, interactive visuals summarizing insights by **country**, **year**, **cuisine**, and **pricing**  
@@ -49,14 +50,14 @@ To recommend potential **countries and cities** for new restaurant openings by a
 ## Recommendations
 - Expand in emerging, high-rated markets with **premium yet affordable offerings**  
 - Focus on **quality, service, and ambiance** to sustain high ratings  
-- Continue leveraging **data visualization** for strategy and performance tracking  
-
+- Continue leveraging **data visualization** for strategy and performance tracking 
 ---
 
 ## Getting Started
-1. Open the **Google Sheet** named `Final_Dashboard`.  
-2. Explore the following tabs:  
-   - **Objective Sheet** → Contains all formula-based analyses and pivot tables.  
-   - **Subjective Sheets** → Each sheet corresponds to one analytical question.  
-   - **Dashboard Sheet** → View all insights through interactive visuals.  
-3. Adjust filters or slicers to explore specific countries, cuisines, or years.
+1. Download the dataset: [`Zomato_Data.xlsx`](./Zomato_Data.xlsx)  
+2. Open the **Google Sheet** dashboard below:  
+   🔗 [View Live Dashboard (Google Sheets)](https://docs.google.com/spreadsheets/d/14skXtswETJz60XtQ_C1ymbMbWHgCGmNU/edit?usp=sharing&ouid=106708176094228610874&rtpof=true&sd=true)  
+3. Explore:  
+   - **Objective Sheet** → Formula-based analyses and pivot tables  
+   - **Subjective Sheets** → Detailed question-wise analysis  
+   - **Dashboard Sheet** → Interactive visuals for management insights
